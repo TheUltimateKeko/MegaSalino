@@ -1,0 +1,1 @@
+you must put Salino.png as the pack png
